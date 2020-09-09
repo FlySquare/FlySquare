@@ -9,7 +9,8 @@ I was born in 2002 in Yalova. My passion brought me here. Since I couldn't stop 
 [![Twitter Badge](https://img.shields.io/badge/flysquare0-gray?style=for-the-badge&logo=twitter)](https://twitter.com/flysquare0/)
 [![Instagram Badge](https://img.shields.io/badge/fly.square-gray?style=for-the-badge&logo=instagram)](https://instagram.com/fly.square)
 
-
+<h1>Last Tweet</h1>
+<p><a href="https://www.twitter.com/flysquare0"><img src="https://github.com/mokkapps/mokkapps/blob/master/tweet.png" width="600"></a></p>
 
 For more information about me, check out [bolfps.com](https://bolfps.com)
 
