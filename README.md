@@ -12,8 +12,6 @@ I was born in 2002 in Yalova. My passion brought me here. Since I couldn't stop 
 ![](https://komarev.com/ghpvc/?username=flysquare&color=green)
 
 
-For more information about me, check out [bolfps.com](https://bolfps.com)
-
 ![FlySquare's GitHub Stats](https://github-readme-stats.vercel.app/api?username=flysquare&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlySquare&layout=compact)](https://github.com/ualehosaini)
