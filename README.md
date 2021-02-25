@@ -16,6 +16,5 @@ For more information about me, check out [bolfps.com](https://bolfps.com)
 
 ![FlySquare's GitHub Stats](https://github-readme-stats.vercel.app/api?username=flysquare&show_icons=true)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlySquare&count_private=true&include_all_commits=true&hide=contribs&show_icons=true)](https://github.com/FlySquare)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlySquare&layout=compact)](https://github.com/ualehosaini)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FlySquare&" alt="ualehosaini" /></p> 
