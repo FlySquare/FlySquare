@@ -14,5 +14,4 @@ I was born in 2002 in Yalova. My passion brought me here. Since I couldn't stop 
 
 ![FlySquare's GitHub Stats](https://github-readme-stats.vercel.app/api?username=flysquare&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlySquare&layout=compact)](https://github.com/ualehosaini)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FlySquare&" alt="ualehosaini" /></p> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlySquare&layout=compact)](https://github.com/flysquare)
