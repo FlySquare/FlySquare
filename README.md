@@ -13,7 +13,4 @@ I was born in 2002 in Yalova/TURKEY. I have been continuing the adventure that I
 
 ![](https://komarev.com/ghpvc/?username=flysquare&color=green)
 
-
 ![FlySquare's GitHub Stats](https://github-readme-stats.vercel.app/api?username=flysquare&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlySquare&layout=compact)](https://github.com/flysquare)
