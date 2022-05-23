@@ -11,7 +11,7 @@ I was born in 2002 in Yalova/TURKEY. I have been continuing the adventure that I
 ![](https://komarev.com/ghpvc/?username=flysquare&color=green)
 <details>
   <summary>More...</summary>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![FlySquare's GitHub Stats](https://github-readme-stats.vercel.app/api?username=flysquare&show_icons=true)
+     <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=gungoren&layout=compact&langs_count=10&hide=html,css,jupyter%20notebook&show_icons=true&count_private=true&theme=dark](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)"  style="width: 49%;"/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=gungoren&show_icons=true&count_private=true&theme=dark&include_all_commits=true&line_height=28](https://github-readme-stats.vercel.app/api?username=flysquare&show_icons=true)" style="width: 50%;"/>
 </details>
 
