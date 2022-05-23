@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 
-I was born in 2002 in Yalova/TURKEY. I have been continuing the adventure that I started with Php and Mysql at the age of 14 for 5 years. I am actively developing myself and doing various projects on React, React Native, Laravel, Php, Sql, MongoDB, Javascript, Node.JS. In these 5 years, I have developed myself using languages ​​such as Java (native android), arduino, Python, C and C # for more than 6 months, and have mastered the algorithm and syntax details in various projects.
+I was born in 2002 in Yalova/TURKEY. I have been continuing the adventure that I started with Php and Mysql at the age of 14 for 6 years. I am actively developing myself and doing various projects on React, Angular, Laravel, Php, MySql, MongoDB, Javascript, TypeScript, Node.JS. In these 6 years, I have developed myself using languages ​​such as Java (native android), arduino, Python, C and C # for more than 10 months, and have mastered the algorithm and syntax details in various projects.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
