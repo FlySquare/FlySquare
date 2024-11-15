@@ -8,7 +8,7 @@ I was born in 2002 in Yalova/TURKEY. I have been continuing the adventure that I
 [![Twitter Badge](https://img.shields.io/badge/flysquare0-gray?style=for-the-badge&logo=twitter)](https://twitter.com/flysquare0/)
 [![Instagram Badge](https://img.shields.io/badge/fly.square-gray?style=for-the-badge&logo=instagram)](https://instagram.com/fly.square)
 
-![](https://komarev.com/ghpvc/?username=flysquare&color=green)
+![](https://komarev.com/ghpvc/?username=flysquare&color=green) [![wakatime](https://wakatime.com/badge/user/912eec6d-142c-4f26-8470-5e3f2e9111a5.svg)](https://wakatime.com/@912eec6d-142c-4f26-8470-5e3f2e9111a5)
 <details>
   <summary>More...</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=flysquare&show_icons=true&count_private=true&theme=dark&include_all_commits=true&line_height=28&theme=dark" style="width: 50%;"/>
