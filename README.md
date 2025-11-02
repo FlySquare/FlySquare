@@ -6,7 +6,7 @@ I was born in 2002 in Yalova/TURKEY. I have been continuing the adventure that I
 
 [![Linkedin Badge](https://img.shields.io/badge/flysquare-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/flysquare/)
 [![Twitter Badge](https://img.shields.io/badge/flysquare0-gray?style=for-the-badge&logo=twitter)](https://twitter.com/flysquare0/)
-[![Instagram Badge](https://img.shields.io/badge/fly.square-gray?style=for-the-badge&logo=instagram)](https://instagram.com/umut.canarda)
+[![Instagram Badge](https://img.shields.io/badge/umut.canarda-gray?style=for-the-badge&logo=instagram)](https://instagram.com/umut.canarda)
 
 ![](https://komarev.com/ghpvc/?username=flysquare&color=green) [![wakatime](https://wakatime.com/badge/user/912eec6d-142c-4f26-8470-5e3f2e9111a5.svg)](https://wakatime.com/@912eec6d-142c-4f26-8470-5e3f2e9111a5)
 <details>
